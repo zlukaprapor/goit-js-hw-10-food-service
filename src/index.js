@@ -1,4 +1,2 @@
-import changeTheme from './js/change-theme'
-import makeCards from './js/make-cards'
-
-
+import './sass/main.scss';
+import './code.js/color-switch';
